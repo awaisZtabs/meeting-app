@@ -10,6 +10,6 @@ https://jetstream.laravel.com/2.x/installation.html
 ## License
 you need to setup 
 GOOGLE_CLIENT_ID. <br>
-GOOGLE_CLIENT_SECRET.
-GOOGLE_REDIRECT_URI.
+GOOGLE_CLIENT_SECRET.<br>
+GOOGLE_REDIRECT_URI <br>
 in .env file to make calendar work properly however if you want to test basic integration, you can comment the code for google api first and then test.
